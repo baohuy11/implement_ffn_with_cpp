@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+ffnn.out.dSYM
+
+ffnn.out
+
+ffnn
+
+.vscode/
